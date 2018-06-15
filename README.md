@@ -1,1 +1,1 @@
-# aframe-mirror-component
+# a-mirror | component
